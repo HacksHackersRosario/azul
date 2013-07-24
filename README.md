@@ -1,4 +1,4 @@
 azul
 ====
 
-Repositorio para jugarr
+Repositorio para jugar
